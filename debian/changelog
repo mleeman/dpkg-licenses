@@ -1,0 +1,5 @@
+dpkg-licenses (0.0.1) UNRELEASED; urgency=medium
+
+  * Initial release
+
+ -- Marc Leeman <marc.leeman@gmail.com>  Wed, 02 Oct 2019 12:32:01 +0200
