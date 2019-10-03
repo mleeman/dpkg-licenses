@@ -8,7 +8,7 @@ Standards-Version: 4.4.0
 Vcs-Git: https://github.com/mleeman/dpkg-licenses.git
 Vcs-Browser: https://github.com/mleeman/dpkg-licenses
 
-Package: dpkg-license
+Package: dpkg-licenses
 Architecture: all
 Depends: lsb-base (>= 3.0-10),
          ${misc:Depends},
