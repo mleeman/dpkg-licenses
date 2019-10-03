@@ -42,6 +42,7 @@ Options:
 esac
 
 SCRIPTLIB=$(dirname $(readlink -f "$0"))/lib/
+SCRIPTLIB=/usr/share/dpkg-licenses/lib/
 test -d "$SCRIPTLIB"
 
 if [[ $CSV -eq 1 ]]
