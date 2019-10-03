@@ -1,1 +1,2 @@
 dpkg-licenses   usr/bin/
+lib/*           usr/share/dpkg-licenses/lib/
