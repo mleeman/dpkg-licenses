@@ -1,0 +1,24 @@
+From b2ab445d65f81530960a2cecdde6c068ddd3448b Mon Sep 17 00:00:00 2001
+From: Marc Leeman <m.leeman@televic.com>
+Date: Thu, 3 Oct 2019 14:17:00 +0200
+Subject: [PATCH] dpkg-licenses: move lib dir to /usr/share/
+
+---
+ dpkg-licenses | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/dpkg-licenses b/dpkg-licenses
+index 0cb3ff8..5b09d68 100755
+--- a/dpkg-licenses
++++ b/dpkg-licenses
+@@ -32,6 +32,7 @@ Usage: $0
+ esac
+ 
+ SCRIPTLIB=$(dirname $(readlink -f "$0"))/lib/
++SCRIPTLIB=/usr/share/dpkg-licenses/lib/
+ test -d "$SCRIPTLIB"
+ 
+ format='%-2s  %-30s %-30s %-6s %-60s %s\n'
+-- 
+2.23.0
+
