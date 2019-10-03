@@ -1,5 +1,9 @@
-dpkg-licenses (0.0.1) UNRELEASED; urgency=medium
+dpkg-licenses (0.0.1) unstable; urgency=medium
 
   * Initial release
+  * debian: fix control
+  * dpkg-licenses: binary-without-manpage
+  * dpkg-licenses: move lib dir to /usr/share/
+  * debian: patch and install lib dir
 
- -- Marc Leeman <marc.leeman@gmail.com>  Wed, 02 Oct 2019 12:32:01 +0200
+ -- Marc Leeman <m.leeman@televic.com>  Thu, 03 Oct 2019 15:52:48 +0200
