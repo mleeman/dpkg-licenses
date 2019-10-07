@@ -1,3 +1,9 @@
+dpkg-licenses (0.0.3~test10+0) buster-test-experimental; urgency=medium
+
+  * debian: correct copyright file
+
+ -- Marc Leeman <m.leeman@televic.com>  Mon, 07 Oct 2019 14:50:09 +0200
+
 dpkg-licenses (0.0.2~test10+0) buster-test-experimental; urgency=medium
 
   * push to autobuilder
