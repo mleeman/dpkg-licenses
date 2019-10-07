@@ -1,8 +1,8 @@
-dpkg-licenses (0.0.3~test10+1) buster-test-unstable; urgency=medium
+dpkg-licenses (0.0.3~test10+2) buster-test-unstable; urgency=medium
 
   * debian: correct copyright file
 
- -- Marc Leeman <m.leeman@televic.com>  Mon, 07 Oct 2019 16:46:29 +0200
+ -- Marc Leeman <m.leeman@televic.com>  Mon, 07 Oct 2019 16:55:39 +0200
 
 dpkg-licenses (0.0.2~test10+0) buster-test-experimental; urgency=medium
 
