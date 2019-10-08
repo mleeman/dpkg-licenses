@@ -1,3 +1,9 @@
+dpkg-licenses (0.0.3~test10+3) buster-test-unstable; urgency=medium
+
+  * debian: correct standards version
+
+ -- Marc Leeman <m.leeman@televic.com>  Tue, 08 Oct 2019 08:50:06 +0200
+
 dpkg-licenses (0.0.3~test10+2) buster-test-unstable; urgency=medium
 
   * debian: correct copyright file
