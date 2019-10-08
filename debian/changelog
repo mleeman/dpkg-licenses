@@ -1,3 +1,10 @@
+dpkg-licenses (0.0.3~test10+6) buster-test-unstable; urgency=medium
+
+  * debian: tweak lintian overrides
+  * debian: tweak lintian overrides
+
+ -- Marc Leeman <m.leeman@televic.com>  Tue, 08 Oct 2019 09:08:41 +0200
+
 dpkg-licenses (0.0.3~test10+5) buster-test-unstable; urgency=medium
 
   * debian: tweak lintian overrides
