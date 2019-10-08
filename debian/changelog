@@ -1,3 +1,10 @@
+dpkg-licenses (0.0.3~test10+4) buster-test-unstable; urgency=medium
+
+  * debian: add televic e-mail as maintainer
+  * debian: missing-license-paragraph-in-dep5-copyright
+
+ -- Marc Leeman <m.leeman@televic.com>  Tue, 08 Oct 2019 08:57:19 +0200
+
 dpkg-licenses (0.0.3~test10+3) buster-test-unstable; urgency=medium
 
   * debian: correct standards version
