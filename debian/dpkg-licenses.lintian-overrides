@@ -1,2 +1,3 @@
 dpkg-licenses: binary-without-manpage usr/bin/dpkg-licenses
-dpkg-licenses: missing-license-paragraph-in-dep5-copyright
+dpkg-licenses source: missing-license-paragraph-in-dep5-copyright gpl-3
+dpkg-licenses source: missing-license-paragraph-in-dep5-copyright gpl-2+
