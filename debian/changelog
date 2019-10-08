@@ -1,3 +1,9 @@
+dpkg-licenses (0.0.3~test10+5) buster-test-unstable; urgency=medium
+
+  * debian: tweak lintian overrides
+
+ -- Marc Leeman <m.leeman@televic.com>  Tue, 08 Oct 2019 09:00:51 +0200
+
 dpkg-licenses (0.0.3~test10+4) buster-test-unstable; urgency=medium
 
   * debian: add televic e-mail as maintainer
