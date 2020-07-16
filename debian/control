@@ -1,10 +1,10 @@
 Source: dpkg-licenses
 Section: misc
 Priority: optional
-Maintainer: Marc Leeman <marc.leeman@gmail.com>
+Maintainer: Marc Leeman <m.leeman@televic.com>
 Build-Depends: debhelper (>= 10),
                lsb-release,
-Standards-Version: 4.4.0
+Standards-Version: 4.3.0
 Vcs-Git: https://github.com/mleeman/dpkg-licenses.git
 Vcs-Browser: https://github.com/mleeman/dpkg-licenses
 
