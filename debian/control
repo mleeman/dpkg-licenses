@@ -2,7 +2,8 @@ Source: dpkg-licenses
 Section: misc
 Priority: optional
 Maintainer: Marc Leeman <m.leeman@televic.com>
-Build-Depends: debhelper-compat (= 13)
+Build-Depends: debhelper-compat (= 13),
+                quilt
 Standards-Version: 4.3.0
 Vcs-Git: https://github.com/mleeman/dpkg-licenses.git
 Vcs-Browser: https://github.com/mleeman/dpkg-licenses
