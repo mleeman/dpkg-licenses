@@ -1,3 +1,15 @@
+dpkg-licenses (0.0.4~televic12+2) bookworm-televic-unstable; urgency=medium
+
+  * debian: correct e-mail
+  * d/control: update debian-compat
+  * d/control: add quilt to build-depends
+  * d/lintian-overrides: correct override
+  * d/control: update standards version
+  * d/patches: remove patch
+  * MINI_BUILDD_OPTION: auto-ports=bullseye-televic-unstable
+
+ -- Marc Leeman <m.leeman@televic.com>  Thu, 14 Dec 2023 12:34:55 +0100
+
 dpkg-licenses (0.0.4~televic10+1) buster-televic-unstable; urgency=medium
 
   * debian: tweak lintian overrides
