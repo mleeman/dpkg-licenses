@@ -1,3 +1,12 @@
+dpkg-licenses (0.0.4~televic12+3) bookworm-televic-unstable; urgency=medium
+
+  * d/control: add Rules-Requires-Root
+  * d/control: bump Standards-Version
+  * d/docs: do not install the LICENSE file that is in d/copyright too
+  * d/copyright: add preambles
+
+ -- Marc Leeman <m.leeman@televic.com>  Wed, 22 Jan 2025 17:42:13 +0100
+
 dpkg-licenses (0.0.4~televic12+2) bookworm-televic-unstable; urgency=medium
 
   * debian: correct e-mail
